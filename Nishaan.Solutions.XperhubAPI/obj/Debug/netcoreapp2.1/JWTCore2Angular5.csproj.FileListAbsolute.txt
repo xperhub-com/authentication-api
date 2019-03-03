@@ -1,0 +1,14 @@
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\obj\Debug\netcoreapp2.1\JWTCore2Angular5.csproj.CoreCompileInputs.cache
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\obj\Debug\netcoreapp2.1\JWTCore2Angular5.RazorAssemblyInfo.cache
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\obj\Debug\netcoreapp2.1\JWTCore2Angular5.RazorAssemblyInfo.cs
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\obj\Debug\netcoreapp2.1\JWTCore2Angular5.AssemblyInfoInputs.cache
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\obj\Debug\netcoreapp2.1\JWTCore2Angular5.AssemblyInfo.cs
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\bin\Debug\netcoreapp2.1\JWTCore2Angular5.deps.json
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\bin\Debug\netcoreapp2.1\JWTCore2Angular5.runtimeconfig.json
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\bin\Debug\netcoreapp2.1\JWTCore2Angular5.runtimeconfig.dev.json
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\bin\Debug\netcoreapp2.1\JWTCore2Angular5.dll
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\obj\Debug\netcoreapp2.1\JWTCore2Angular5.RazorTargetAssemblyInfo.cache
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\bin\Debug\netcoreapp2.1\JWTCore2Angular5.pdb
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\obj\Debug\netcoreapp2.1\JWTCore2Angular5.dll
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\obj\Debug\netcoreapp2.1\JWTCore2Angular5.pdb
+C:\Users\deolg\OneDrive\Projects\JWTAuthenticationSolution\JWTCore2Angular5\obj\Debug\netcoreapp2.1\JWTCore2Angular5.csprojAssemblyReference.cache
