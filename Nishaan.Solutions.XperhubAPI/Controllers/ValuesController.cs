@@ -13,11 +13,14 @@ namespace Nishaan.Solutions.XperhubAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            return new OkObjectResult(new
-            {
-                Message = "This is a WAHEGURU creation",
-                Id = 1,
-                Creator = "Waheguru"
+            return await Task.Factory.StartNew(()=>
+            { 
+                return new OkObjectResult(new
+                {
+                    Message = "This is a WAHEGURU creation",
+                    Id = 1,
+                    Creator = "Waheguru"
+                });
             });
         }
     }

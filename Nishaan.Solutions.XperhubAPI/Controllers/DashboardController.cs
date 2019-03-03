@@ -37,7 +37,7 @@ namespace Nishaan.Solutions.XperhubAPI.Controllers
 
             return new OkObjectResult(new
             {
-                Message = "This is secure API and user data!",
+                // Message = "This is secure API and user data!",
                 customer.Identity.FirstName,
                 customer.Identity.LastName,
                 customer.Identity.PictureUrl,
