@@ -26,6 +26,7 @@ namespace Nishaan.Solutions.XperhubAPI.Controllers
             _appDbContext = appDbContext;
         }
 
+        // Register Customer
         // POST api/accounts
         [HttpPost]
         public async Task<IActionResult> Post([FromBody]RegistrationViewModel model)
